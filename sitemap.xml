@@ -3,26 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ibm-hackathon-support.github.io/faq/</loc>
+    <lastmod>2020-03-27T07:45:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibm-hackathon-support.github.io/faq/get-help/</loc>
+    <lastmod>2020-03-27T07:45:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibm-hackathon-support.github.io/faq/create-cloud-account/</loc>
+    <lastmod>2020-03-27T07:10:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibm-hackathon-support.github.io/</loc>
     <lastmod>2020-03-26T20:24:06+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://ibm-hackathon-support.github.io/posts/my-first-post/</loc>
     <lastmod>2020-03-26T17:06:18+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://ibm-hackathon-support.github.io/posts/</loc>
     <lastmod>2020-03-26T17:06:18+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ibm-hackathon-support.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ibm-hackathon-support.github.io/tags/</loc>
   </url>
   
 </urlset>

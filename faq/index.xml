@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Landing Page on Hackathon Support</title>
-    <link>https://ibm-hackathon-support.github.io/</link>
-    <description>Recent content in Landing Page on Hackathon Support</description>
+    <title>Faqs on Hackathon Support</title>
+    <link>https://ibm-hackathon-support.github.io/faq/</link>
+    <description>Recent content in Faqs on Hackathon Support</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2020 20:24:06 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 07:45:41 +0100</lastBuildDate>
     
-	<atom:link href="https://ibm-hackathon-support.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ibm-hackathon-support.github.io/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,15 +29,6 @@
       <description>Create a free IBM Cloud Account to get access to runtimes and IBM Watson services:
  Follow https://ibm.biz/cloud-vs-covid19 to create an account. Ask us in our channel #ibm-support to get a unique voucher code  When you received a code from us, go to the IBM Cloud Dashboard:
  Goto Manage &amp;gt; Account &amp;gt; Account Settings Click Apply Code Enter the voucher code and click Apply  Please tag your porject with ibm-cloud on DevPost to allow us to find you and give you pro-active support.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://ibm-hackathon-support.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 26 Mar 2020 17:06:18 +0100</pubDate>
-      
-      <guid>https://ibm-hackathon-support.github.io/posts/my-first-post/</guid>
-      <description></description>
     </item>
     
   </channel>
