@@ -1,0 +1,87 @@
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: .8rem;
+}
+
+a,
+a:hover,
+a:visited {
+    color: #005cff;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+.bg-blue {
+    background-color: #005cff;
+    color: #fff;
+}
+
+.hero {
+    padding-bottom: 1rem;
+}
+
+.hero .hero-body {
+    padding: .4rem;
+}
+
+.hero h1 {
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.hero h2 {
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+.hero a {
+    color: #fff;
+    text-decoration: none;
+}
+
+span.brand {
+    font-weight: 300;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.btn,
+.btn:hover {
+    border-color: #005cff;
+}
+
+.btn:hover {
+    background-color: #f1f1f1;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
+
+.card .card-body, 
+.card .card-footer, 
+.card .card-header {
+    padding: 1.5rem;
+    padding-bottom: 0;
+}
+
+.question {
+    font-weight: 500;
+}
+
+code {
+    font-family: 'IBM Plex Mono', sans-serif;
+}
+
+main {
+    padding: 2rem .4rem;
+}
+
+footer {
+    border-top: .05rem solid #dadee4;
+    padding: .4rem .4rem;
+}
