@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ibm-hackathon-support.github.io/howto/architecture/</loc>
+    <lastmod>2020-03-27T09:08:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibm-hackathon-support.github.io/howto/</loc>
+    <lastmod>2020-03-27T09:08:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibm-hackathon-support.github.io/howto/get-started/</loc>
+    <lastmod>2020-03-27T09:03:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibm-hackathon-support.github.io/howto/examples/</loc>
+    <lastmod>2020-03-27T09:01:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibm-hackathon-support.github.io/howto/prototyping/</loc>
+    <lastmod>2020-03-27T08:42:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ibm-hackathon-support.github.io/faq/</loc>
     <lastmod>2020-03-27T07:45:41+01:00</lastmod>
   </url>
